@@ -10,7 +10,22 @@ namespace Lab101
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            // initial message here
+            // call the methods
+        }
+
+
+        //GetInteger
+        public static int GetInteger(string message)
+        {
+            // do something crazy code
+        }
+
+        // CompareInt
+        public static bool CompareInt(int x, int y)
+        {
+            // do something amazing work here
         }
     }
 }
