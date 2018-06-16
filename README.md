@@ -1,6 +1,6 @@
 ## Lab101 [Grand Circus](https://grandcircus.co) .NET(C#) Bootcamp Prework
 
-### The C# Console Program
+### The C# Console Program - Math Challenge
 The program read the two integers from the user with same number of digits `(example: number1 = 234, number2 = 564)` and check if each corresponding place in the two numbers (ones, tens, hundreds, ...) sums to the same total.
 #### Examples:
 
